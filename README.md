@@ -1,6 +1,6 @@
 # Мои решения тестовых заданий
 
-[Мой профиль на Codewars](https://www.codewars.com/users/cdwrrr)
+[Мой профиль на Codewars](https://www.codewars.com/users/cdwrrr/completed)
 
 ### Тестовое задание #1
 Нужно написать виджет - числовое поле с кнопками + -
